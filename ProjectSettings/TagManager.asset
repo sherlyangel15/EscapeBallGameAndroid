@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - PlayerFace
+  - Spikes
+  - Enemy
+  - AMTick
+  - AMButton
+  - CoinUI
+  - HeartUI
+  - DestroyPS
+  - SettingsPanel
+  - AudioPlayerObject
+  - PlayerDead
+  - StorePanel
+  - CoinStoreUI
+  - HeartStoreUI
+  - WarningText
+  - AMCollider
+  - YellowButton
+  - GreenButton
+  - PinkButton
+  - RedButton
+  - PurpleButton
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Trap
+  - BackGround
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 3767660315
+    locked: 0
+  - name: Trap
+    uniqueID: 1854946559
+    locked: 0
+  - name: Ground
+    uniqueID: 474825311
+    locked: 0
